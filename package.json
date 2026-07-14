@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "pg": "^8.22.0"
+  },
+  "name": "exerciciopostegress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": ""
+}
