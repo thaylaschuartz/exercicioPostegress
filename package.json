@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "pg": "^8.22.0"
+    "pg": "^8.22.0",
+    "prompt-sync": "^4.2.0"
   },
   "name": "exerciciopostegress",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +13,13 @@
   "author": "",
   "type": "module",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaylaschuartz/exercicioPostegress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thaylaschuartz/exercicioPostegress/issues"
+  },
+  "homepage": "https://github.com/thaylaschuartz/exercicioPostegress#readme"
 }
